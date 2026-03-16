@@ -1,0 +1,187 @@
+{
+  "clientes": [
+    {
+      "usuario": "beauty",
+      "password": "beauty123",
+      "nombre": "Beauty Time Encarnación",
+      "iniciales": "BT",
+      "subtitulo": "Meta Ads · Encarnación",
+      "color": "#f05252",
+      "account_id": "1619587368600205",
+      "filtro_campana": null,
+      "campanas": [
+        { "nombre": "2x1 en Faciales y Masajes", "sub": "Engagement · ₲18.000/día", "gasto": 125178, "wa": 35, "cpa": 3577, "score": 88 },
+        { "nombre": "Depilación Láser 50% desc.", "sub": "Engagement · ₲18.000/día", "gasto": 95779, "wa": 16, "cpa": 5986, "score": 62 }
+      ],
+      "kpis": [
+        { "label": "Gasto 7 días", "valor": "₲ 220.957", "nota": "", "clase": "" },
+        { "label": "Conversaciones WA", "valor": "51", "nota": "Últimos 7 días", "clase": "g" },
+        { "label": "Costo por WA", "valor": "₲ 4.332", "nota": "Promedio campañas", "clase": "b" },
+        { "label": "Tasa de respuesta", "valor": "71%", "nota": "36 de 51 respondieron", "clase": "y" }
+      ],
+      "wa_diario": [4, 8, 6, 9, 7, 8, 9],
+      "gasto_labels": ["2x1 Faciales", "Depilación Láser"],
+      "gasto_vals": [125178, 95779],
+      "insights": [
+        { "icono": "🏆", "bg": "rgba(46,204,138,0.1)", "titulo": "Tu campaña más eficiente", "cuerpo": "El 2x1 en Faciales genera consultas a ₲ 3.577/WA con muy buena tasa de respuesta (71%). Martes y sábados son tus días pico." },
+        { "icono": "⚡", "bg": "rgba(79,142,255,0.1)", "titulo": "Oportunidad de escalar", "cuerpo": "La campaña de Faciales tiene frecuencia saludable. Subir el presupuesto de ₲18.000 a ₲25.000 por día puede aumentar consultas sin saturar la audiencia." },
+        { "icono": "🔄", "bg": "rgba(245,166,35,0.1)", "titulo": "Depilación: renovar creativo", "cuerpo": "Cuesta casi el doble por WA que Faciales. Se recomienda una nueva imagen con oferta más directa — Esta semana 50% de descuento." },
+        { "icono": "📅", "bg": "rgba(124,92,252,0.1)", "titulo": "Programación de anuncios", "cuerpo": "Viernes y domingos tienen bajo rendimiento en tu cuenta. Concentrar presupuesto en martes, jueves y sábados puede mejorar el costo promedio por consulta." }
+      ]
+    },
+    {
+      "usuario": "acuidarte",
+      "password": "ac2026",
+      "nombre": "Acuidarte",
+      "iniciales": "AC",
+      "subtitulo": "Meta Ads · Encarnación + Asunción",
+      "color": "#2ecc8a",
+      "account_id": "368445080244184",
+      "filtro_campana": "Acuidarte",
+      "campanas": [
+        { "nombre": "Acuidarte Asu — Extensiones y Maquillajes", "sub": "Engagement · cuenta Motiva", "gasto": 19527, "wa": 7, "cpa": 2790, "score": 96 }
+      ],
+      "kpis": [
+        { "label": "Gasto 7 días", "valor": "₲ 19.527", "nota": "", "clase": "" },
+        { "label": "Conversaciones WA", "valor": "7", "nota": "Últimos 7 días", "clase": "g" },
+        { "label": "Costo por WA", "valor": "₲ 2.790", "nota": "Mejor de la agencia", "clase": "g" },
+        { "label": "Tasa de respuesta", "valor": "86%", "nota": "6 de 7 respondieron", "clase": "b" }
+      ],
+      "wa_diario": [0, 1, 2, 1, 1, 1, 1],
+      "gasto_labels": ["Acuidarte Asu"],
+      "gasto_vals": [19527],
+      "insights": [
+        { "icono": "🥇", "bg": "rgba(46,204,138,0.1)", "titulo": "Mejor costo de toda la agencia", "cuerpo": "Con ₲ 2.790 por conversación de WhatsApp, esta semana tenés el mejor rendimiento de toda la cartera. El creativo y la oferta están funcionando muy bien." },
+        { "icono": "📈", "bg": "rgba(79,142,255,0.1)", "titulo": "Momento para escalar", "cuerpo": "Frecuencia 2.58 — saludable. Hay espacio para subir el presupuesto diario y generar más consultas manteniendo el buen costo." },
+        { "icono": "🔄", "bg": "rgba(245,166,35,0.1)", "titulo": "Tener listo un creativo alternativo", "cuerpo": "Con más de 30 días activa, las campañas tienden a perder CTR. Preparar una segunda versión del anuncio para rotar antes de que aparezcan señales de fatiga." },
+        { "icono": "🗺", "bg": "rgba(124,92,252,0.1)", "titulo": "Oportunidad: ampliar a otras ciudades", "cuerpo": "Si el servicio permite clientes de otras ciudades o el curso es online, ampliar la segmentación geográfica puede triplicar el alcance potencial." }
+      ]
+    },
+    {
+      "usuario": "neolife",
+      "password": "neo2026",
+      "nombre": "Neolife — Dr. Giangreco",
+      "iniciales": "NL",
+      "subtitulo": "Meta Ads · Asunción y área metropolitana",
+      "color": "#7c5cfc",
+      "account_id": "368445080244184",
+      "filtro_campana": "Neolife",
+      "campanas": [
+        { "nombre": "Consulta Dr. Giangreco mar26", "sub": "Engagement · ₲15.000/día", "gasto": 106456, "wa": 13, "cpa": 8189, "score": 60 }
+      ],
+      "kpis": [
+        { "label": "Gasto 7 días", "valor": "₲ 106.456", "nota": "", "clase": "" },
+        { "label": "Conversaciones WA", "valor": "13", "nota": "Últimos 7 días", "clase": "y" },
+        { "label": "Costo por WA", "valor": "₲ 8.189", "nota": "Con margen de mejora", "clase": "y" },
+        { "label": "Tasa de respuesta", "valor": "77%", "nota": "10 de 13 respondieron", "clase": "b" }
+      ],
+      "wa_diario": [2, 1, 2, 0, 3, 2, 3],
+      "gasto_labels": ["Consulta mar26"],
+      "gasto_vals": [106456],
+      "insights": [
+        { "icono": "📊", "bg": "rgba(79,142,255,0.1)", "titulo": "Campaña nueva, en aprendizaje", "cuerpo": "Con menos de 15 días activa, el algoritmo de Meta todavía está optimizando. El costo por WA debería bajar en las próximas 2 semanas. No hacer cambios por ahora." },
+        { "icono": "💡", "bg": "rgba(245,166,35,0.1)", "titulo": "Cambiar objetivo puede ayudar", "cuerpo": "Podríamos probar con objetivo Mensajes para optimizar directamente para WhatsApp y reducir el costo por conversación hasta un 30%." },
+        { "icono": "🎯", "bg": "rgba(46,204,138,0.1)", "titulo": "Audiencia de calidad", "cuerpo": "77% de tasa de respuesta es muy buena para servicios médicos — significa que las personas que llegan son genuinamente interesadas." },
+        { "icono": "📍", "bg": "rgba(124,92,252,0.1)", "titulo": "Revisar segmentación geográfica", "cuerpo": "Para consultas médicas especializadas, ampliar el radio de Asunción a 50km puede aumentar el alcance significativamente sin bajar la calidad." }
+      ]
+    },
+    {
+      "usuario": "kstore",
+      "password": "ks2026",
+      "nombre": "K-Store Servicio Técnico",
+      "iniciales": "KS",
+      "subtitulo": "Meta Ads · Paraguay",
+      "color": "#f5a623",
+      "account_id": "368445080244184",
+      "filtro_campana": "K-Store",
+      "campanas": [
+        { "nombre": "K-Store — Servicio Técnico mar26", "sub": "Tráfico · ₲35.000/día", "gasto": 121143, "wa": 1, "cpa": 121143, "score": 22 }
+      ],
+      "kpis": [
+        { "label": "Gasto 7 días", "valor": "₲ 121.143", "nota": "", "clase": "" },
+        { "label": "Visitas al perfil", "valor": "434", "nota": "Clics al link", "clase": "b" },
+        { "label": "Costo por visita", "valor": "₲ 279", "nota": "Objetivo: tráfico", "clase": "y" },
+        { "label": "Conversaciones WA", "valor": "1", "nota": "Objetivo no optimiza WA", "clase": "y" }
+      ],
+      "wa_diario": [0, 0, 0, 1, 0, 0, 0],
+      "gasto_labels": ["K-Store Servicio Técnico"],
+      "gasto_vals": [121143],
+      "insights": [
+        { "icono": "⚠️", "bg": "rgba(245,166,35,0.1)", "titulo": "Objetivo desalineado con la meta", "cuerpo": "La campaña tiene objetivo Tráfico y no optimiza para WhatsApp. Si el objetivo real es recibir consultas, hay que cambiar a objetivo Mensajes." },
+        { "icono": "📊", "bg": "rgba(79,142,255,0.1)", "titulo": "434 visitas al perfil esta semana", "cuerpo": "El tráfico al perfil de Instagram es bueno con CPC de ₲279. La pregunta es si esas visitas se convierten en clientes." },
+        { "icono": "💡", "bg": "rgba(46,204,138,0.1)", "titulo": "Agregar botón WA al anuncio", "cuerpo": "Con objetivo Tráfico podés agregar un botón de WhatsApp al anuncio. Así mantenés el alcance y también generás consultas directas." },
+        { "icono": "🔄", "bg": "rgba(124,92,252,0.1)", "titulo": "Probar objetivo Mensajes", "cuerpo": "Crear una segunda campaña con objetivo Mensajes → WhatsApp con ₲15.000/día para comparar cuál trae mejores resultados." }
+      ]
+    },
+    {
+      "usuario": "sanatorio",
+      "password": "san2026",
+      "nombre": "Sanatorio Virgen del Fátima",
+      "iniciales": "SF",
+      "subtitulo": "Meta Ads · Natalio y alrededores",
+      "color": "#4f8eff",
+      "account_id": "368445080244184",
+      "filtro_campana": "Virgen del Fatima",
+      "campanas": [
+        { "nombre": "Odontología Natalio — mar26", "sub": "Engagement · ₲16.500/día", "gasto": 85453, "wa": 13, "cpa": 6573, "score": 68 }
+      ],
+      "kpis": [
+        { "label": "Gasto 7 días", "valor": "₲ 85.453", "nota": "", "clase": "" },
+        { "label": "Conversaciones WA", "valor": "13", "nota": "Últimos 7 días", "clase": "g" },
+        { "label": "Costo por WA", "valor": "₲ 6.573", "nota": "Rango normal ciudad chica", "clase": "b" },
+        { "label": "Tasa de respuesta", "valor": "85%", "nota": "11 de 13 respondieron", "clase": "g" }
+      ],
+      "wa_diario": [2, 4, 1, 1, 3, 0, 2],
+      "gasto_labels": ["Odontología Natalio"],
+      "gasto_vals": [85453],
+      "insights": [
+        { "icono": "✅", "bg": "rgba(46,204,138,0.1)", "titulo": "Campaña sana y en crecimiento", "cuerpo": "Con solo 6 días activa, el costo de ₲6.573/WA es razonable para Natalio. El algoritmo todavía está aprendiendo — los números van a mejorar en la segunda semana." },
+        { "icono": "📅", "bg": "rgba(79,142,255,0.1)", "titulo": "Mejor rendimiento lunes y martes", "cuerpo": "Los primeros días de semana están mostrando mejor CTR. Esto es común en servicios de salud — la gente toma decisiones al inicio de la semana." },
+        { "icono": "🗺", "bg": "rgba(245,166,35,0.1)", "titulo": "Audiencia geográfica pequeña", "cuerpo": "Natalio es una ciudad chica. Verificar si el radio del anuncio incluye San Juan del Paraná y otras localidades cercanas para ampliar el alcance disponible." },
+        { "icono": "🔄", "bg": "rgba(124,92,252,0.1)", "titulo": "Preparar creativo alternativo", "cuerpo": "El CTR bajó de 3.05% a 1.76% en la primera semana. Tener lista una segunda imagen para rotar a la tercera semana si el CTR sigue bajando." }
+      ]
+    },
+    {
+      "usuario": "admin",
+      "password": "motiva2026",
+      "nombre": "Motiva Py — Admin",
+      "iniciales": "MP",
+      "subtitulo": "Vista completa · Todas las cuentas",
+      "color": "#4f8eff",
+      "es_admin": true,
+      "account_id": null,
+      "filtro_campana": null,
+      "campanas": [
+        { "nombre": "Acuidarte Asu — Extensiones", "sub": "Motiva Clientes · Engagement", "gasto": 19527, "wa": 7, "cpa": 2790, "score": 96 },
+        { "nombre": "Sanatorio Virgen Fátima", "sub": "Motiva Clientes · Engagement", "gasto": 85453, "wa": 13, "cpa": 6573, "score": 68 },
+        { "nombre": "Neolife — Dr. Giangreco", "sub": "Motiva Clientes · Engagement", "gasto": 106456, "wa": 13, "cpa": 8189, "score": 60 },
+        { "nombre": "K-Store Servicio Técnico", "sub": "Motiva Clientes · Tráfico", "gasto": 121143, "wa": 1, "cpa": 121143, "score": 22 },
+        { "nombre": "2x1 en Faciales y Masajes", "sub": "Beauty Time · Engagement", "gasto": 125178, "wa": 35, "cpa": 3577, "score": 88 },
+        { "nombre": "Depilación Láser 50%", "sub": "Beauty Time · Engagement", "gasto": 95779, "wa": 16, "cpa": 5986, "score": 62 },
+        { "nombre": "Franfix — Servicio Técnico", "sub": "iFix · Ventas", "gasto": 337048, "wa": 64, "cpa": 5266, "score": 72 }
+      ],
+      "kpis": [
+        { "label": "Gasto total 7 días", "valor": "₲ 890.584", "nota": "Todas las cuentas", "clase": "" },
+        { "label": "Total WA iniciados", "valor": "149", "nota": "7 campañas activas", "clase": "g" },
+        { "label": "Costo prom. / WA", "valor": "₲ 5.978", "nota": "Promedio ponderado", "clase": "b" },
+        { "label": "Campañas activas", "valor": "7", "nota": "3 cuentas publicitarias", "clase": "y" }
+      ],
+      "wa_diario": [14, 22, 19, 25, 28, 18, 23],
+      "gasto_labels": ["Acuidarte", "Sanatorio", "Neolife", "K-Store", "Beauty 2x1", "Beauty Depi", "iFix"],
+      "gasto_vals": [19527, 85453, 106456, 121143, 125178, 95779, 337048],
+      "insights": [
+        { "icono": "🏆", "bg": "rgba(46,204,138,0.1)", "titulo": "Mejor campaña: Acuidarte Asu", "cuerpo": "₲2.790/WA — el mejor costo de toda la cartera. Usar este creativo como referencia para otras campañas similares." },
+        { "icono": "⚠️", "bg": "rgba(240,82,82,0.1)", "titulo": "K-Store: revisar objetivo urgente", "cuerpo": "₲121.143 gastados esta semana con solo 1 conversación de WhatsApp. El objetivo Tráfico no está alineado con la meta del cliente." },
+        { "icono": "📊", "bg": "rgba(79,142,255,0.1)", "titulo": "iFix tiene el mayor gasto", "cuerpo": "₲337.048 en 7 días para 64 conversaciones a ₲5.266/WA. Razonable para servicio técnico especializado." },
+        { "icono": "💡", "bg": "rgba(245,166,35,0.1)", "titulo": "3 campañas en fase de aprendizaje", "cuerpo": "Sanatorio, Neolife y K-Store tienen menos de 15 días activas. Esperar el ciclo completo antes de hacer cambios de optimización." }
+      ],
+      "mapa_asignacion": [
+        { "campana": "Acuidarte Asu — Extensiones y Maquillajes", "sub": "Motiva Clientes · filtro: Acuidarte", "usuario": "acuidarte", "color": "#2ecc8a" },
+        { "campana": "Sanatorio Virgen del Fátima — Odontología", "sub": "Motiva Clientes · filtro: Virgen del Fatima", "usuario": "sanatorio", "color": "#4f8eff" },
+        { "campana": "Neolife — Consulta Dr. Giangreco", "sub": "Motiva Clientes · filtro: Neolife", "usuario": "neolife", "color": "#7c5cfc" },
+        { "campana": "K-Store — Servicio Técnico", "sub": "Motiva Clientes · filtro: K-Store", "usuario": "kstore", "color": "#f5a623" },
+        { "campana": "2x1 Faciales y Masajes + Depilación Láser", "sub": "Beauty Time · cuenta propia (account_id)", "usuario": "beauty", "color": "#f05252" }
+      ]
+    }
+  ]
+}
